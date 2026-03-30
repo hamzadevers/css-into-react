@@ -1,0 +1,12 @@
+img{
+   height: 150px;
+   position: relative;
+   left: 75px;
+   top: 25px;
+}
+.mn{
+    border: 1px #d70404 solid;
+    height: 200px;
+    width: 300px;
+    background:#d70404;
+}

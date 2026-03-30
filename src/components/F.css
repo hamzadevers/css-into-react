@@ -1,0 +1,80 @@
+* {
+  background-color: lightgoldenrodyellow;
+}
+h2 {
+  text-align: center;
+  border: 5px dotted rgb(81, 130, 81);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.green {
+  background-color: darkolivegreen;
+}
+.red {
+  background-color: darkred;
+}
+.blue {
+  background-color: darkslateblue;
+}
+.yellow {
+  background-color: yellow;
+}
+.row {
+  display: flex;
+}
+.board {
+  width: fit-content;
+  border: 20px solid #411900d5;
+  border-radius: 5px;
+  margin: 10px auto;
+}
+.white-box {
+  background-color: white;
+  width: 150px;
+  height: 150px;
+  margin: 20% auto;
+  border: 1px solid black;
+}
+.red-box {
+  background-color: darkred;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+}
+.green-box {
+  background-color: darkolivegreen;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+}
+.blue-box {
+  background-color: darkslateblue;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+}
+.yellow-box {
+  background-color: yellow;
+  width: 250px;
+  height: 250px;
+  border: 1px solid #000;
+}
+.white-box .circle {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin: 16px;
+  border: 1px solid black;
+}
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #000;
+}
+.destination {
+  border-top: 63px solid darkolivegreen;
+  border-left: 63px solid darkred;
+  border-right: 63px solid yellow;
+  border-bottom: 63px solid darkslateblue;
+  max-width: 1px;
+}

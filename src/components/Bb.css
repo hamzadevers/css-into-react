@@ -1,0 +1,55 @@
+
+img {
+  width: 200px;
+}
+h1 {
+  color: #800125;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  letter-spacing: 10px;
+}
+a {
+  text-decoration: none;
+  color: #04431e;
+  font-family: "Montserrat", sans-serif;
+  cursor: progress;
+}
+h2 {
+  text-decoration: underline;
+  font-family: "Montserrat", sans-serif;
+  color: #800125;
+}
+p {
+  background-color: #fef0a377;
+  font-family: "Playwrite NZ Basic", cursive;
+  font-size: small;
+  font-weight: 600;
+}
+footer {
+  text-align: center;
+  background-color: #00f;
+}
+li {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: justify;
+}
+table {
+  background-color: #6cfaa7;
+}
+td {
+  background-color: #f0e352;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+input[placeholder] {
+  color: red;
+  font-weight: 100;
+}
+button {
+  color: #609411;
+  background-color: #aee1fd;
+}
+ 

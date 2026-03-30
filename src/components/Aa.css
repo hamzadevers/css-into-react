@@ -1,0 +1,19 @@
+
+h1{
+    color: #6b5acd;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}   
+form{
+    background-color: #6b5acd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: small;
+    line-height: 30px;
+}
+button{
+    color: #0027a8;
+    background-color: chartreuse;
+}
